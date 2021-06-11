@@ -1,0 +1,5 @@
+telegram_api=5300634
+api_hash=your 80d4086dd118a786b57677b707eb1aaa
+username=PuppyLover7
+#1/Xth ot the average activity(messages per runtime) required to not be marked as inactive. default: 1/3th
+min_activity=50
